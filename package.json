@@ -1,0 +1,18 @@
+{
+  "name": "floema",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "",
+    "desenvolvimento": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-alexandrasantos/floema.git"
+  },
+  "author": "Alexandra Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a-alexandrasantos/floema/issues"
+  },
+  "homepage": "https://github.com/a-alexandrasantos/floema#readme"
+}
